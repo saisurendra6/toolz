@@ -36,8 +36,6 @@ All data is stored **locally** in an optimized SQLite database—no tracking, no
 
 ## 📸 Screenshots
 
-Add PNG/JPG files to `/screenshots` and change the filenames below.  
-Markdown will render them in a nice grid:
 
 <div align="center">
 <img src="screenshots/home1.jpg"   width="210" alt="Home1" />
