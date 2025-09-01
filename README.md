@@ -40,12 +40,23 @@ Add PNG/JPG files to `/screenshots` and change the filenames below.
 Markdown will render them in a nice grid:
 
 <div align="center">
+<img src="screenshots/home1.jpg"   width="210" alt="Home1" />
+<img src="screenshots/home2.jpg"   width="210" alt="Home2" />
+</div>
 
-<img src="screenshots/home.png"   width="210" alt="Home" />
-<img src="screenshots/notifications.png" width="210" alt="Notification list" />
-<img src="screenshots/statistics.png" width="210" alt="Statistics" />
-<img src="screenshots/whatsapp.png" width="210" alt="WhatsApp utilities" />
+<div align="center">
+<img src="screenshots/notifications_home.jpg" width="210" alt="Notification Home" />
+<img src="screenshots/notifications_list.jpg" width="210" alt="Notification List" />
+</div>
 
+<div align="center">
+<img src="screenshots/whatsapp_status.jpg" width="210" alt="WhatsApp utilities(status)" />
+<img src="screenshots/whatsapp_contact.jpg" width="210" alt="WhatsApp utilities(contact)" />
+</div>
+
+<div align="center">
+<img src="screenshots/settings1.jpg"   width="210" alt="Settings1" />
+<img src="screenshots/settings2.jpg"   width="210" alt="Settings2" />
 </div>
 
 ---
