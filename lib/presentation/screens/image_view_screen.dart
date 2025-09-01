@@ -5,8 +5,7 @@ import 'package:share_plus/share_plus.dart';
 
 class ImageViewerScreen extends StatelessWidget {
   final File file;
-  final String tag;
-  const ImageViewerScreen({super.key, required this.file, required this.tag});
+  const ImageViewerScreen({super.key, required this.file});
 
   @override
   Widget build(BuildContext context) {
@@ -24,7 +23,7 @@ class ImageViewerScreen extends StatelessWidget {
               icon: const Icon(Icons.share_rounded))
         ],
       ),
-      body: Hero(tag: tag, child: Center(child: Image.file(file))),
+      body: Center(child: Image.file(file)),
     );
   }
 }
